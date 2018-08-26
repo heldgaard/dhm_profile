@@ -4,4 +4,4 @@ description: 'My Useful Profile'
 core: 8.x
 
 dependencies:
-  - 'pathauto'
+  - 'pathauto:pathauto'
