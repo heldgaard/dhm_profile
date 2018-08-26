@@ -1,0 +1,7 @@
+name: DHM Profile
+type: profile
+description: 'My Useful Profile'
+core: 8.x
+
+dependencies:
+  - 'pathauto'
