@@ -2,6 +2,48 @@ name: DHM Profile
 type: profile
 description: 'My Useful Profile'
 core: 8.x
+version: VERSION
 
 dependencies:
-  - 'pathauto:pathauto'
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - comment
+  - contextual
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - big_pipe
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - tour
+  - automated_cron
+  - pathauto
+  - adminimal_admin_toolbar
+  - features
+  - module_filter
+themes:
+  - adminimal_theme
+  - bartik
